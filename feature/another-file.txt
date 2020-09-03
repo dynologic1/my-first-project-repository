@@ -1,3 +1,5 @@
-this is another file in feature of branch feature-1
+editing this file in branch feature 2
 
 i am editing another file locally
+
+added new line in branch feature 2 
